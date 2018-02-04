@@ -1,0 +1,28 @@
+html {
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+nav {
+  font-size: 18px;
+}
+
+footer {
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.process h3, .ptc h3 {
+  font-size: 23px;
+}
+
+.process p, .ptc p {
+  font-size: 14px;
+}
